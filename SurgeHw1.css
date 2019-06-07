@@ -1,0 +1,36 @@
+body {
+    background-color: gray;
+    color: white;
+}
+.Header {
+    background-color: blue;
+    text-align: center;
+    padding: 50px;
+}
+.nav {
+    background-color: rgb(38, 38, 121);
+    text-align: center;
+    padding: 50px;
+
+}
+.section {
+    background-color: rgb(8, 8, 143);
+}
+.article {
+
+}
+.aside {
+    background-color: yellowgreen;
+}
+.footer {
+    background-color: red;
+    padding: 50px;
+    text-align: center;
+
+}
+.wrapper {
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
